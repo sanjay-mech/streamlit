@@ -1,0 +1,10 @@
+opencv-python
+numpy
+matplotlib
+seaborn
+scikit-learn
+mtcnn
+tensorflow
+keras
+efficientnet
+splitfolders
