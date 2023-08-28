@@ -1,4 +1,4 @@
-opencv-python-headless 
+opencv-python3-headless 
 numpy
 matplotlib
 seaborn
