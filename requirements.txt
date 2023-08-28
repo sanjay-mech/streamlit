@@ -9,3 +9,4 @@ tensorflow
 keras
 efficientnet
 split-folders
+protobuf==3.20
