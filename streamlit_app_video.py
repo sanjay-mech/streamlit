@@ -64,7 +64,7 @@ def process_video(model_path, frame_rate=2):
     st.title("Deepfake Detection")
 
     # Load the deepfake detection model
-    deepfake_model = load_model(model_path)
+    deepfake_model = load_model(best_model.h5)
 
     uploaded_video = st.file_uploader("Upload an MP4 video...", type=["mp4"])
 
