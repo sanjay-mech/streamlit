@@ -11,3 +11,4 @@ efficientnet
 split-folders
 protobuf
 dlib
+CMake
