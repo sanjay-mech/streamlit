@@ -12,3 +12,4 @@ split-folders
 protobuf
 dlib
 CMake
+pandas
